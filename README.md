@@ -15,10 +15,10 @@ This project keeps the core functionality of the original firmware while adding 
 * Modified source code included for further development
 
 ## Firmware
-
 The repository provides pre-built firmware files that can be flashed directly to a compatible ESP32 device.
 > **Note:** If multiple `.bin` files are provided, all required firmware files must be flashed to their corresponding addresses. Please check the included firmware configuration or flashing instructions before flashing.
-> 
+>
+
 ## Flashing
 You can flash the firmware using an ESP32 flashing tool such as **ESP-IDF**, **esptool**, or another compatible ESP32 flash utility.
 The exact flash addresses depend on the firmware configuration and board being used.
