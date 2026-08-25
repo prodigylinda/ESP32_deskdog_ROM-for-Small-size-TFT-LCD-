@@ -40,7 +40,6 @@ ESP32_deskdog_ROM/
 The actual filenames may vary depending on the build configuration.
 
 ## Based On
-
 This project is based on **xiaozhi-esp32**, an open-source ESP32 AI voice interaction project developed by Xiaoxia.
 Original project:
 
