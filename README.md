@@ -5,7 +5,6 @@
 This project keeps the core functionality of the original firmware while adding **real-time AI voice reply text display** on the device screen. This allows users to clearly read the robot dog's responses while interacting through voice.
 
 ## Features
-
 * Real-time AI reply text display
 * Voice interaction with cloud-based AI services
 * Emotional expression animations
