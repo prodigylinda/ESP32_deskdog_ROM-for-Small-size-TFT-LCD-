@@ -20,6 +20,7 @@ The repository provides pre-built firmware files that can be flashed directly to
 >
 
 ## Flashing
+
 You can flash the firmware using an ESP32 flashing tool such as **ESP-IDF**, **esptool**, or another compatible ESP32 flash utility.
 The exact flash addresses depend on the firmware configuration and board being used.
 **Make sure to back up your original firmware before flashing.**
