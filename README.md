@@ -14,7 +14,9 @@ This project keeps the core functionality of the original firmware while adding 
 * Pre-built `.bin` firmware files included
 * Modified source code included for further development
 
+  
 ## Firmware
+
 The repository provides pre-built firmware files that can be flashed directly to a compatible ESP32 device.
 > **Note:** If multiple `.bin` files are provided, all required firmware files must be flashed to their corresponding addresses. Please check the included firmware configuration or flashing instructions before flashing.
 >
