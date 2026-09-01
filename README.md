@@ -6,7 +6,6 @@ This project keeps the core functionality of the original firmware while adding 
 
 
 ## Features
-
 * Real-time AI reply text display
 * Voice interaction with cloud-based AI services
 * Emotional expression animations
@@ -15,7 +14,6 @@ This project keeps the core functionality of the original firmware while adding 
 * OTA-ready
 * Pre-built `.bin` firmware files included
 * Modified source code included for further development
-
   
 ## Firmware
 
