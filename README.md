@@ -6,7 +6,6 @@ This project keeps the core functionality of the original firmware while adding 
 
 
 ## Features
-
 * Real-time AI reply text display
 * Voice interaction with cloud-based AI services
 * Emotional expression animations
